@@ -6,7 +6,7 @@ const businessCards = [
     entities: [
       {
         type: "name",
-        value: "John Doe",
+        value: "Group Number 1",
       },
     ],
     dateAdded: "2022-04-01",
@@ -18,7 +18,7 @@ const businessCards = [
     entities: [
       {
         type: "name",
-        value: "John Doe",
+        value: "Max Martin",
       },
     ],
     dateAdded: "2022-04-02",
