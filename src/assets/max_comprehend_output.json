@@ -1,0 +1,36 @@
+{
+  "Entities": [
+    {
+      "Score": 0.9872345924377441,
+      "Type": "PERSON",
+      "Text": "Max Martin",
+      "BeginOffset": 0,
+      "EndOffset": 10
+    },
+    {
+      "Score": 0.7592734098434448,
+      "Type": "OTHER",
+      "Text": "mmart180@my.centennialcollege.ca 4166069375",
+      "BeginOffset": 11,
+      "EndOffset": 54
+    },
+    {
+      "Score": 0.9700282216072083,
+      "Type": "ORGANIZATION",
+      "Text": "Centennial College",
+      "BeginOffset": 55,
+      "EndOffset": 73
+    }
+  ],
+  "ResponseMetadata": {
+    "RequestId": "379e52a3-2135-470f-801f-abdc434951fb",
+    "HTTPStatusCode": 200,
+    "HTTPHeaders": {
+      "x-amzn-requestid": "379e52a3-2135-470f-801f-abdc434951fb",
+      "content-type": "application/x-amz-json-1.1",
+      "content-length": "350",
+      "date": "Mon, 21 Feb 2022 01:58:36 GMT"
+    },
+    "RetryAttempts": 0
+  }
+}

@@ -1,7 +1,8 @@
 const businessCards = [
   {
     id: 1,
-    s3url: "https://s3.amazonaws.com/business-cards-bucket/business-card-1.png",
+    imageUrl:
+      "https://images.pexels.com/photos/326576/pexels-photo-326576.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     entities: [
       {
         type: "name",
@@ -12,7 +13,8 @@ const businessCards = [
   },
   {
     id: 2,
-    s3url: "https://s3.amazonaws.com/business-cards-bucket/business-card-2.png",
+    imageUrl:
+      "https://images.pexels.com/photos/326569/pexels-photo-326569.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     entities: [
       {
         type: "name",
